@@ -2,8 +2,6 @@
 
 This repository contains the complete implementation of a voice-controlled IoT monitoring system, designed to run efficiently on edge devices. The project demonstrates a full-stack approach, from training and optimizing a lightweight machine learning model with **TensorFlow Lite (TFLite)** to deploying it in a real-time application that controls an IoT data pipeline.
 
-This project was developed as part of the "Machine Learning for IoT" course at Politecnico di Torino and serves as a practical demonstration of designing ML models for resource-constrained environments, a topic directly aligned with the research grant on "**Progettazione di modelli di machine Learning su dispositivi embedded per applicazioni industriali**."
-
 ## Key Features
 
 -   **High-Accuracy Keyword Spotting (KWS):** A custom convolutional neural network trained to recognize "yes" and "no" voice commands with over **98.9% accuracy** on the test set.
